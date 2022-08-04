@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\bin\Debug\net6.0\papka1.exe
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\bin\Debug\net6.0\papka1.deps.json
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\bin\Debug\net6.0\papka1.runtimeconfig.json
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\bin\Debug\net6.0\papka1.dll
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\bin\Debug\net6.0\papka1.pdb
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.dll
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\refint\papka1.dll
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.pdb
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\papka1.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\papka1\obj\Debug\net6.0\ref\papka1.dll
