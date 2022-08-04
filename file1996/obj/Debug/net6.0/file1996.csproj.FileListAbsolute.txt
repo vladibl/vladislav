@@ -1,0 +1,15 @@
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\bin\Debug\net6.0\file1996.exe
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\bin\Debug\net6.0\file1996.deps.json
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\bin\Debug\net6.0\file1996.runtimeconfig.json
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\bin\Debug\net6.0\file1996.dll
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\bin\Debug\net6.0\file1996.pdb
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.csproj.AssemblyReference.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.AssemblyInfoInputs.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.AssemblyInfo.cs
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.csproj.CoreCompileInputs.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.dll
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\refint\file1996.dll
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.pdb
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\file1996.genruntimeconfig.cache
+C:\Users\еурккврв\Desktop\Новая папка (2)\file1996\obj\Debug\net6.0\ref\file1996.dll
